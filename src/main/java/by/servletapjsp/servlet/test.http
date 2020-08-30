@@ -1,0 +1,6 @@
+POST http://localhost:8080/calc
+Content-Type: application/x-www-form-urlencoded
+
+num1=25&num2=25&operation=sum
+
+###
