@@ -1,6 +1,6 @@
 # PrivateCalculator
 
-Java stack: Servlet, JSP, JSTL, Lombok, Maven, Postgres.
+Java stack: Servlet, Lombok, Maven, Postgres.
 
 Run: clone this repository --> open project in IDEA IDE.
 
